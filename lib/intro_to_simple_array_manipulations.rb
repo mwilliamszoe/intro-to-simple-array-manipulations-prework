@@ -7,3 +7,6 @@ def using_delete(array, string)
 end
 
 def using_flatten(array)
+  array.
+end
+
